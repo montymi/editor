@@ -6,3 +6,7 @@ debug
 foo.*
 *.log
 data
+
+.venv-*
+
+lazy-lock.json
